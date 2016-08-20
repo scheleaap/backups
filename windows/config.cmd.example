@@ -1,0 +1,6 @@
+@echo off
+
+set remote_user=root
+set remote_host=example.com
+set remote_path=/var/backup/data/*
+set target_dir=/cygdrive/c/backups
