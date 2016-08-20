@@ -1,6 +1,6 @@
 #!/bin/sh
 
-dump_directory=/var/backups/dumps
+dump_directory=${1:-/var/backup/dumps}
 
 dpkg --get-selections > ${dump_directory}/dpkg-selections.txt
 aptitude search '~i' > ${dump_directory}/aptitude-list.txt

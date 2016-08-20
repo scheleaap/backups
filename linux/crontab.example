@@ -1,0 +1,2 @@
+45  4   *   *   *   bash /root/scripts/backups/linux/create-dumps.sh /var/backup/dumps
+0   5   *   *   *   bash /root/scripts/backups/linux/backup.sh /root/scripts/backups/linux/globinclude.list /root/scripts/backups/linux/globexclude.list
