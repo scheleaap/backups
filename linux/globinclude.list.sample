@@ -1,0 +1,8 @@
+/etc
+- /home/user/.cache
+- /home/user/public_html
+/home
+/root
+/var/backups/dumps
+/var/www
+/var/log
