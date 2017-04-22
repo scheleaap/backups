@@ -14,3 +14,5 @@ sudo apt-get install rdiff-backup
 
 1. Download [cwRsync](https://www.itefix.net/content/cwrsync-free-edition).
 2. Unpack and copy `bin` to `windows`.
+3. Copy `config.cmd.example` to `config.cmd` and modify according to your configuration.
+4. Run `sync.cmd`
