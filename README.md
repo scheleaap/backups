@@ -14,5 +14,8 @@ sudo apt-get install rdiff-backup
 
 1. Download [cwRsync](https://www.itefix.net/content/cwrsync-free-edition).
 2. Unpack and copy `bin` to `windows`.
-3. Copy `config.cmd.example` to `config.cmd` and modify according to your configuration.
-4. Run `sync.cmd`
+3. Create `windows/home/<your username>/.ssh/id_rsa`:
+   * Add your private key
+   * Change the file's access rights: only the current user may have access.
+4. Copy `config.cmd.example` to `config.cmd` and modify according to your configuration.
+5. Run `sync.cmd`
