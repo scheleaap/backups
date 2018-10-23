@@ -61,7 +61,7 @@ echo "Starting backup"
 #echo $cmd
 $cmd
 
-#$binary -v2 --force --remove-older-than 4W margo@$dest_host::$dest_path
+#$binary -v${verbosity} --force --remove-older-than 4W ${backup_target}
 
 /bin/rm -f $lock
 
