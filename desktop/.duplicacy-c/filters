@@ -1,0 +1,12 @@
+-$RECYCLE.BIN/
+-System Volume Information/
+-Users/*/.android/
+-Users/*/.AndroidStudio3.2/system/
+-Users/*/.gradle/
+-Users/*/.IdeaIC*/system/
+-Users/*/.PyCharmCE*/system/
+-Users/*/.vagrant.d/
+-Users/*/VirtualBox VMs/
+-Users/*/Roaming/
++Users/*
+-*

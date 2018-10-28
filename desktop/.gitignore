@@ -1,0 +1,9 @@
+# Duplicity files
+.duplicacy
+cache/
+preferences
+incomplete
+
+# Other
+config.cmd
+backblaze.txt
