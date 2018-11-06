@@ -7,6 +7,10 @@
 -Users/*/.PyCharmCE*/system/
 -Users/*/.vagrant.d/
 -Users/*/VirtualBox VMs/
--Users/*/Roaming/
+-Users/*/Local/
+-Users/*/LocalLow/
+-Users/*/Roaming/BitTorrent Sync/
+-Users/*/Roaming/Downloaded Installations/
+-Users/*/Roaming/Resilio Sync/
 +Users/*
 -*
