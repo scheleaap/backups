@@ -3,6 +3,7 @@
 cache/
 preferences
 incomplete
+prune-log-*
 
 # Other
 *.log
