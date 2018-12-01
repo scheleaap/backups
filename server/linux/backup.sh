@@ -146,10 +146,11 @@ fi
 
 echo $$ > $lock
 
-verbosity=3
 if [ "$_arg_quiet" == "off" ]; then
+    verbosity=3
     print_statistics="--print-statistics"
 else
+    verbosity=2
     print_statistics=""
 fi
 cmd="$binary -v${verbosity} ${print_statistics} --exclude-special-files --include-globbing-filelist $_arg_globinclude_file --exclude-globbing-filelist $_arg_globexclude_file ${backup_source} ${backup_target}"
@@ -159,7 +160,7 @@ if [ "$_arg_quiet" == "off" ]; then
 fi
 
 #echo $cmd
-$cmd | grep -v "does not match source"
+$cmd
 
 #$binary -v${verbosity} --force --remove-older-than 4W ${backup_target}
 
