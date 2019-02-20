@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Backing up"
-source /etc/duplicacy/config
-(cd / && duplicacy -log backup -threads 8 -stats)
+source /opt/backups/server/linux-duplicacy/config
+(cd / && duplicacy -log backup -threads 8 -stats --dry-run)
