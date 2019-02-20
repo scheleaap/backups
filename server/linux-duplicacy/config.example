@@ -1,5 +1,5 @@
-DUPLICACY_B2_ID=account_id
-DUPLICACY_B2_KEY=application_key
-DUPLICACY_B2_BUCKET=my-server-backups
-DUPLICACY_PASSWORD=password
-DUPLICACY_REPOSITORY_ID=my-server
+export DUPLICACY_B2_ID=account_id
+export DUPLICACY_B2_KEY=application_key
+export DUPLICACY_B2_BUCKET=my-server-backups
+export DUPLICACY_PASSWORD=password
+export DUPLICACY_REPOSITORY_ID=my-server
