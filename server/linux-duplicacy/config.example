@@ -1,0 +1,5 @@
+DUPLICACY_B2_ID=account_id
+DUPLICACY_B2_KEY=application_key
+DUPLICACY_B2_BUCKET=my-server-backups
+DUPLICACY_PASSWORD=password
+DUPLICACY_REPOSITORY_ID=my-server
