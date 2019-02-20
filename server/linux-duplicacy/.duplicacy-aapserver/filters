@@ -6,6 +6,7 @@
 -home/*/website/photos/
 -home/ftp/
 +home/*
+-root/.gradle/
 -root/.local/share/letsencrypt/
 +root/*
 +var/backup/dumps/*
