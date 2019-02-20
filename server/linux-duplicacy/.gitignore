@@ -6,6 +6,7 @@ incomplete
 prune-log-*
 
 # Other
+log
 *.log
 config
 config.cmd
