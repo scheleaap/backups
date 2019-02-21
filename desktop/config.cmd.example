@@ -3,5 +3,5 @@
 set DUPLICACY=C:\Users\Me\AppData\Local\Duplicacy\duplicacy_win_x64_2.1.1.exe
 set DUPLICACY_B2_ID=account_id
 set DUPLICACY_B2_KEY=application_key
-set DUPLICACY_PASSWORD=password
+set DUPLICACY_PASSWORD="pass&word"
 set B2_BUCKET_PREFIX=my-desktop-backups
