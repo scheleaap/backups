@@ -1,0 +1,4 @@
+export B2_ACCOUNT_ID=account_id
+export B2_ACCOUNT_KEY=application_key
+export B2_BUCKET=my-backups
+export RESTIC_PASSWORD=password

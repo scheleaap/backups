@@ -1,0 +1,8 @@
+.cache
+.gradle
+.wine
+.zsh
+/home/jacqueline
+/home/wout/public_html/zut
+/home/wout/website/photos
+/root/.local/share/letsencrypt

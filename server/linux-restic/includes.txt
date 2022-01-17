@@ -1,0 +1,7 @@
+/etc
+/home
+/opt/seafile-docker-compose
+/root
+/var/backup/dumps
+/var/log
+/var/www
