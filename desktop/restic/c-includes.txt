@@ -1,0 +1,4 @@
+C:\Users\Wout\AppData\Roaming\FreeCommander
+C:\Users\Wout\AppData\Roaming\Microsoft\Windows\Start Menu
+C:\Users\Wout\AppData\Roaming\Mozilla\Firefox
+C:\Users\Wout\.gitconfig

@@ -1,0 +1,13 @@
+D:\.duplicacy
+D:\$$RECYCLE.BIN
+D:\System Volume Information
+D:\Afbeeldingen
+D:\Documenten
+D:\Foto's
+D:\Progs
+D:\Users\Wout\Programma's\Android
+D:\Users\Wout\Programma's\Scripts\Backups
+D:\Users\Wout\Programma's\Eclipse workspaces
+D:\Users\Wout\Programma's\Java
+**/virtualenv
+D:\Users\Wout\Afbeeldingen
