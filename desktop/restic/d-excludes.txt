@@ -10,4 +10,3 @@ D:\Users\Wout\Programma's\Scripts\Backups
 D:\Users\Wout\Programma's\Eclipse workspaces
 D:\Users\Wout\Programma's\Java
 **/virtualenv
-D:\Users\Wout\Afbeeldingen
