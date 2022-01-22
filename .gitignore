@@ -1,1 +1,6 @@
 *~
+log
+*.log
+config
+config.cmd
+backblaze.txt

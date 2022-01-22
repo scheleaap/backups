@@ -4,8 +4,3 @@ cache/
 preferences
 incomplete
 prune-log-*
-
-# Other
-*.log
-config.cmd
-backblaze.txt
