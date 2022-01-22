@@ -6,3 +6,9 @@
 /home/wout/public_html/zut
 /home/wout/website/photos
 /root/.local/share/letsencrypt
+/var/log/journal
+/var/log/ufw.log
+dovecot.index*
+dovecot.mailbox.log*
+dovecot-uidlist*
+dovecot-uidvalidity*
