@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "Backing up"
-source /opt/backups/server/linux-restic/config
-/opt/restic/restic -r b2:${B2_BUCKET}:aapserver --verbose backup --files-from includes.txt --exclude-file excludes.txt
+basedir=/opt/backups/server/linux-restic
+source $basedir/config
+/opt/restic/restic -r b2:${B2_BUCKET}:aapserver backup --files-from $basedir/includes.txt --exclude-file $basedir/excludes.txt
