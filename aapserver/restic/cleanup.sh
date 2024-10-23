@@ -4,7 +4,7 @@ set -e
 
 echo "Cleaning up"
 
-basedir=/opt/backups/server/linux-restic
+basedir=/opt/backups/aapserver/restic
 
 source $basedir/config
 
