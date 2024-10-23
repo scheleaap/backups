@@ -1,6 +1,0 @@
-# Duplicity files
-.duplicacy
-cache/
-preferences
-incomplete
-prune-log-*
