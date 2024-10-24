@@ -1,0 +1,7 @@
+# export B2_ACCOUNT_ID="key_id"
+# export B2_ACCOUNT_KEY="application_key"
+# export RESTIC_REPOSITORY="b2:my-backups:prefix"
+export AWS_ACCESS_KEY_ID="key_id"
+export AWS_SECRET_ACCESS_KEY="application_key"
+export RESTIC_REPOSITORY="s3:s3.us-west-002.backblazeb2.com/my-backups/prefix"
+export RESTIC_PASSWORD="password"

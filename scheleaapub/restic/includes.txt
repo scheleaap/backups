@@ -1,0 +1,10 @@
+/home/wout/Desktop
+/home/wout/Documents
+/home/wout/Other
+/home/wout/Pictures
+/home/wout/Seafile
+/home/wout/temp
+/home/wout/.config/doublecmd
+/home/wout/.config/autostart
+# /home/wout/.PlayOnLinux/wineprefix/Office2010
+/media/D/Users

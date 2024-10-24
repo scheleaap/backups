@@ -1,0 +1,14 @@
+.cache
+.gradle
+.wine
+.zsh
+**/virtualenv
+/media/D/Users/Wout/Programma's/Android
+/media/D/Users/Wout/Programma's/Scripts/Backups
+/media/D/Users/Wout/Programma's/Eclipse workspaces
+/media/D/Users/Wout/Programma's/Java
+/media/E/Games/DOS
+/media/E/Geïnstalleerde software/_README_.txt
+/media/E/Geïnstalleerde software/Office
+/media/E/Geïnstalleerde software/WISO*
+/media/E/Seafile
