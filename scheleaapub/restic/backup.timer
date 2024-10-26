@@ -1,0 +1,11 @@
+[Unit]
+Description=Run the backup once per day
+Requires=backup.service
+
+[Timer]
+Unit=backup.service
+OnCalendar=daily
+Persistent=true
+
+[Install]
+WantedBy=multi-user.target

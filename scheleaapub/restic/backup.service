@@ -1,0 +1,14 @@
+[Unit]
+Description=Run the backup once
+Wants=backup.timer
+
+[Service]
+ExecStart=/home/wout/dev/backups/scheleaapub/restic/backup.sh
+ExecStart=/home/wout/dev/backups/scheleaapub/restic/cleanup.sh
+Type=oneshot
+WorkingDirectory=/tmp
+User=wout
+Group=wout
+
+[Install]
+WantedBy=multi-user.target
