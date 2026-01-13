@@ -2,6 +2,8 @@
 /home
 /opt/seafile-docker-compose
 /root
-/var/backup/dumps
+/var/backups/*.0
+/var/backups/*.bak
+/var/backups/custom-dumps
 /var/log
 /var/www
