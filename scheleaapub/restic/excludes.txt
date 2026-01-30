@@ -12,3 +12,4 @@
 /media/E/Geïnstalleerde software/Office
 /media/E/Geïnstalleerde software/WISO*
 /media/E/Seafile
+takeout-*.zip
